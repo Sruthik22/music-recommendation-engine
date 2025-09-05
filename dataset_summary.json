@@ -1,0 +1,38 @@
+{
+  "total_tracks": 15,
+  "genres": {
+    "rock": 1,
+    "pop": 1,
+    "hip-hop": 1,
+    "electronic": 1,
+    "jazz": 1,
+    "classical": 1,
+    "indie": 1,
+    "folk": 1,
+    "r&b": 1,
+    "country": 1,
+    "reggae": 1,
+    "blues": 1,
+    "dance": 1,
+    "alternative": 1,
+    "metal": 1
+  },
+  "duration_stats": {
+    "mean_seconds": 215.0,
+    "std_seconds": 64.22979578565283,
+    "min_seconds": 78.0,
+    "max_seconds": 364.0
+  },
+  "popularity_stats": {
+    "mean": 79.33333333333333,
+    "std": 12.364824660660936,
+    "min": 50,
+    "max": 90
+  },
+  "explicit_tracks": 6,
+  "explicit_percentage": 40.0,
+  "embedding_stats": {
+    "audio_embedding_dim": 512,
+    "text_embedding_dim": 384
+  }
+}
